@@ -1,5 +1,5 @@
-# .NET 5: BLAZOR ESENCIAL
-Este es el repositorio del curso de LinkedIn Learning `.NET 5: BLAZOR ESENCIAL`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+# .NET : BLAZOR ESENCIAL
+Este es el repositorio del curso de.NET 5: BLAZOR ESENCIAL`. 
 
 ![.NET 5: BLAZOR ESENCIAL][lil-thumbnail-url] 
 
@@ -20,5 +20,5 @@ Algunas ramas tendrán un estado inicial y otro final. Están marcadas con las l
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/dot-net-5-blazor-esencial
+
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2370363/2370363-1619177295449-16x9.jpg
