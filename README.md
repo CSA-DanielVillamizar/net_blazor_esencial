@@ -1,5 +1,5 @@
 # .NET : BLAZOR ESENCIAL
-Este es el repositorio del curso de `.NET 5: BLAZOR ESENCIAL`. 
+Este es el repositorio del curso de `.NET : BLAZOR ESENCIAL`. 
 
 ![.NET 5: BLAZOR ESENCIAL][lil-thumbnail-url] 
 
